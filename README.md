@@ -11,7 +11,7 @@
 - 💳 Secure payments via **PayPal**
 - 🖼️ Image uploads with **Cloudinary**
 - 🔐 User authentication using **JWT**
-- 💡 Developer-friendly setup with **TypeScript**, **Vite**, and **ESLint**
+- 💡 Developer-friendly setup with **Javascript**, **Vite**, and **ESLint**
 - 🌐 Deployed on **Vercel** and **Railway** (Live link below)
 
 ---
@@ -23,7 +23,7 @@
 | Tech             | Description                             |
 |------------------|-----------------------------------------|
 | **React**        | Component-based UI                      |
-| **TypeScript**   | Static typing for safety and tooling    |
+| **Javascript**   | Static typing for safety and tooling    |
 | **Redux Toolkit**| State management                        |
 | **React Redux**  | React bindings for Redux                |
 | **React Router** | Client-side routing                     |
@@ -48,7 +48,7 @@
 | **Dotenv**       | Environment variables                   |
 | **CORS**         | Cross-origin requests                   |
 | **Nodemon**      | Auto-restart during development         |
-| **TypeScript**   | Typing for backend                      |
+| **Javascript**   | Typing for backend                      |
 
 ---
 
