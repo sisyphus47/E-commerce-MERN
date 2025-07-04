@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js",
+    "start": "node server.js",
     "dev": "nodemon backend/server.js",
     "seed": "node seeder.js",
     "build": "echo 'No build step required'"
