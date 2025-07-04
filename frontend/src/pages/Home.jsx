@@ -4,7 +4,7 @@ import Hero from "../components/Layouts/Hero";
 import NewArrivals from "../components/Products/NewArrivals";
 import ProductDetails from "../components/Products/ProductDetails";
 import ProductGrid from "../components/Products/ProductGrid";
-import FeaturedCollection from "../components/Products/featuredCollection";
+import FeaturedCollection from "../components/Products/FeaturedCollection";
 import FeaturesSection from "../components/Products/FeaturesSection";
 import { useDispatch, useSelector } from "react-redux";
 import { useEffect } from "react";
@@ -46,8 +46,8 @@ const Home = () => {
       <NewArrivals />
       {/* now i will here add the best seller section  */}
       <h2 className="text-3xl text-center font-bold mb-4">Best Seller</h2>
-  {bestSellerProduct ? ( 
-       <ProductDetails productId="6812f109f23a8766a7cb0a89" /> 
+      {bestSellerProduct ? (
+        <ProductDetails productId="6812f109f23a8766a7cb0a89" />
       ) : (
         <p className="text-center">Loading Best Seller Products...</p>
       )}
@@ -59,7 +59,6 @@ const Home = () => {
           Top Wears for Women
         </h2>
         <ProductGrid products={products} loading={loading} error={error} />
-      
       </div>
       <FeaturedCollection />
       <FeaturesSection />
