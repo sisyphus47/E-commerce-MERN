@@ -12,7 +12,7 @@
 - 🖼️ Image uploads with **Cloudinary**
 - 🔐 User authentication using **JWT**
 - 💡 Developer-friendly setup with **TypeScript**, **Vite**, and **ESLint**
-- 🌐 Deployed on **Vercel** (Live link below)
+- 🌐 Deployed on **Vercel** and **Railway** (Live link below)
 
 ---
 
@@ -62,12 +62,13 @@
 
 ## 📦 Deployment
 
-- **Frontend** and **Backend** deployed via **Vercel**
+- **Frontend** deployed on **Vercel**
+- **Backend** deployed on **Railway**
 - CORS enabled for secure frontend-backend communication
 
 ### 🌍 Live Demo
 
-👉 [View Live App](https://your-live-vercel-link.com)
+👉 [View Live App]([https://your-live-vercel-link.co](https://e-commerce-mern-llbz.vercel.app/)m)
 
 ---
 
@@ -80,5 +81,3 @@
 - CLOUDINARY_API_KEY=your_api_key
 - CLOUDINARY_API_SECRET=your_api_secret
 - PAYPAL_CLIENT_ID=your_paypal_client_id
-
-
