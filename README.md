@@ -68,7 +68,7 @@
 
 ### 🌍 Live Demo
 
-👉 [View Live App]([https://your-live-vercel-link.co](https://e-commerce-mern-llbz.vercel.app/)m)
+👉 [View Live App]([https://your-live-vercel-link.co](https://e-commerce-mern-llbz.vercel.app/))
 
 ---
 
